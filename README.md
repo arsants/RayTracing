@@ -1,5 +1,5 @@
 # RayTracing
-
+Rendered on CPU: Ryzen 5 2600x
 ![Image 1](https://github.com/arsants/RayTracing/blob/master/RayTracing/Render10.png)
 <p>
 Total Render Time: 0:02:38.126925 - 10 AA Samples
